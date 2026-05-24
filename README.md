@@ -1,7 +1,13 @@
-# 100-Days-Python
-This Repository contains my 100 days journey of python projects and mistakes, learnings .
-## to Write:
-* what project does
-* concepts learned
-* difficulties faced
-* future improvements
+# 100 Days of Python
+
+This repository documents my 100-day Python learning journey.
+
+## Goals
+- Learn Python fundamentals
+- Build projects daily
+- Improve problem solving
+- Document progress publicly
+
+## Progress
+- [x] Day 1 - Band Name Generator
+- [x] Day 2 - Tip Calculator
