@@ -11,3 +11,6 @@ This repository documents my 100-day Python learning journey.
 ## Progress
 - [x] Day 1 - Band Name Generator
 - [x] Day 2 - Tip Calculator
+- [x] Day 3 - Treasure Island
+- [x] Day 4 - Rock, Paper, Scissors
+- [ ] Day 5 - 
